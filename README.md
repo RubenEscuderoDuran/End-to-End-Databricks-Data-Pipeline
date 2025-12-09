@@ -1,5 +1,5 @@
 # End-to-End-Databricks-Data-Pipeline
-I design end-to-end Databricks data pipeline and built using the Medallion architecture (Bronze → Silver → Gold) for a synthetic sales dataset (orders, customers, products, regions).
+Design end-to-end Databricks data pipeline and built using the Medallion architecture (Bronze → Silver → Gold) for a synthetic sales dataset (orders, customers, products, regions).
 
 - Implemented incremental ingestion from Azure Data Lake with Auto Loader into Bronze for orders, customers and products.
 
